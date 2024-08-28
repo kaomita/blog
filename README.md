@@ -1,2 +1,2 @@
 # blog
-kaomita's blog using vuepress
+👉👉 [kaomita.github.io/blog/](kaomita.github.io/blog/)
