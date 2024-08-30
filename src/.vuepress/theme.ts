@@ -4,25 +4,27 @@ import { enNavbar, zhNavbar } from "./navbar/index.js";
 import { enSidebar, zhSidebar } from "./sidebar/index.js";
 
 export default hopeTheme({
-  hostname: "https://mister-hope.github.io",
+  hostname: "https://kaomita.github.io/blog/",
 
   author: {
-    name: "Mr.Hope",
-    url: "https://mister-hope.com",
+    name: "Yuan Xiao",
+    url: "https://kaomita.github.io/blog/",
   },
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "https://theme-hope-assets.vuejs.press/logo.svg",
+  logo: "/assets/images/logo.png",
 
-  repo: "vuepress-theme-hope/vuepress-theme-hope",
+  repo: "https://github.com/kaomita",
 
   docsDir: "src",
 
+  navbarAutoHide:"mobile",
+
   blog: {
     medias: {
-      Baidu: "https://example.com",
-      BiliBili: "https://example.com",
+      Baidu: "https://baidu.com",
+      BiliBili: "https://bilibili.com",
       Bitbucket: "https://example.com",
       Dingding: "https://example.com",
       Discord: "https://example.com",
@@ -32,7 +34,7 @@ export default hopeTheme({
       Facebook: "https://example.com",
       Flipboard: "https://example.com",
       Gitee: "https://example.com",
-      GitHub: "https://example.com",
+      GitHub: "https://github.com/kaomita",
       Gitlab: "https://example.com",
       Gmail: "mailto:info@example.com",
       Instagram: "https://example.com",
@@ -72,7 +74,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "A FrontEnd programmer",
+        description: "A computer science enthusiast",
         intro: "/intro.html",
       },
 
@@ -96,7 +98,7 @@ export default hopeTheme({
       displayFooter: true,
 
       blog: {
-        description: "一个前端开发者",
+        description: "一个计算机科学爱好者",
         intro: "/zh/intro.html",
       },
 
