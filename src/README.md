@@ -39,5 +39,5 @@ projects:
     desc: Detailed description of this custom item
     link: https://link.to.your.friend
 
-footer: The anthem of humanity is one of courage; the greatness of humanity lies in the greatness of courage
+footer: The anthem of humanity is one of courage
 ---

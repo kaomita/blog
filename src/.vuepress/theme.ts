@@ -23,41 +23,41 @@ export default hopeTheme({
 
   blog: {
     medias: {
-      Baidu: "https://baidu.com",
-      BiliBili: "https://bilibili.com",
-      Bitbucket: "https://example.com",
-      Dingding: "https://example.com",
-      Discord: "https://example.com",
-      Dribbble: "https://example.com",
-      Email: "mailto:info@example.com",
-      Evernote: "https://example.com",
-      Facebook: "https://example.com",
-      Flipboard: "https://example.com",
-      Gitee: "https://example.com",
+      // Baidu: "https://baidu.com",
+      // BiliBili: "https://bilibili.com",
+      // Bitbucket: "https://example.com",
+      // Dingding: "https://example.com",
+      // Discord: "https://example.com",
+      // Dribbble: "https://example.com",
+      Email: "mailto:yxiao33101@outlook.com",
+      // Evernote: "https://example.com",
+      // Facebook: "https://example.com",
+      // Flipboard: "https://example.com",
+      // Gitee: "https://example.com",
       GitHub: "https://github.com/kaomita",
-      Gitlab: "https://example.com",
-      Gmail: "mailto:info@example.com",
-      Instagram: "https://example.com",
-      Lark: "https://example.com",
-      Lines: "https://example.com",
-      Linkedin: "https://example.com",
-      Pinterest: "https://example.com",
-      Pocket: "https://example.com",
-      QQ: "https://example.com",
-      Qzone: "https://example.com",
-      Reddit: "https://example.com",
-      Rss: "https://example.com",
-      Steam: "https://example.com",
-      Twitter: "https://example.com",
-      Wechat: "https://example.com",
-      Weibo: "https://example.com",
-      Whatsapp: "https://example.com",
-      Youtube: "https://example.com",
-      Zhihu: "https://example.com",
-      VuePressThemeHope: {
-        icon: "https://theme-hope-assets.vuejs.press/logo.svg",
-        link: "https://theme-hope.vuejs.press",
-      },
+      // Gitlab: "https://example.com",
+      // Gmail: "mailto:info@example.com",
+      // Instagram: "https://example.com",
+      // Lark: "https://example.com",
+      // Lines: "https://example.com",
+      // Linkedin: "https://example.com",
+      // Pinterest: "https://example.com",
+      // Pocket: "https://example.com",
+      // QQ: "https://example.com",
+      // Qzone: "https://example.com",
+      // Reddit: "https://example.com",
+      // Rss: "https://example.com",
+      // Steam: "https://example.com",
+      // Twitter: "https://example.com",
+      Wechat: "https://drive.google.com/file/d/1rfh45d_sdvSjP9l3yC5IJiqxD4ceZg0m/view",
+      // Weibo: "https://example.com",
+      // Whatsapp: "https://example.com",
+      // Youtube: "https://example.com",
+      Zhihu: "https://www.zhihu.com/people/xiao-ha-ha-12-58",
+      // VuePressThemeHope: {
+      //   icon: "https://theme-hope-assets.vuejs.press/logo.svg",
+      //   link: "https://theme-hope.vuejs.press",
+      // },
     },
   },
 
@@ -69,7 +69,7 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "Default footer",
+      footer: "He springs forward, his sword aloft",
 
       displayFooter: true,
 
@@ -93,7 +93,7 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "默认页脚",
+      footer: "他跳上前去，长剑高举",
 
       displayFooter: true,
 
@@ -111,8 +111,8 @@ export default hopeTheme({
 
   encrypt: {
     config: {
-      "/demo/encrypt.html": ["1234"],
-      "/zh/demo/encrypt.html": ["1234"],
+      "/demo/encrypt.html": ["yxiao"],
+      "/zh/demo/encrypt.html": ["yxiao"],
     },
   },
 

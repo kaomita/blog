@@ -39,7 +39,7 @@ projects:
     desc: 自定义详细介绍
     link: https://你的自定义链接
 
-footer: 人类的赞歌是勇气的赞歌，人类的伟大是勇气的伟大
+footer: 人类的赞歌是勇气的赞歌
 ---
 
 <!-- 相关配置文档请见 [博客主页](https://theme-hope.vuejs.press/zh/guide/blog/home.html)。 -->
