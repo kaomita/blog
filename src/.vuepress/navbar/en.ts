@@ -9,14 +9,11 @@ export const enNavbar = navbar([
     prefix: "/posts/",
     children: [
       {
-        text: "Apple",
+        text: "Ubuntu",
         icon: "pen-to-square",
-        prefix: "apple/",
+        prefix: "Ubuntu/",
         children: [
-          { text: "Apple1", icon: "pen-to-square", link: "1" },
-          { text: "Apple2", icon: "pen-to-square", link: "2" },
-          "3",
-          "4",
+          { text: "Install Ubuntu20.04 Server", icon: "pen-to-square", link: "1" },
         ],
       },
       {
