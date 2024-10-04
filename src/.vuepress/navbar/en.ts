@@ -14,6 +14,7 @@ export const enNavbar = navbar([
         prefix: "Ubuntu/",
         children: [
           { text: "Install Ubuntu20.04 Server", icon: "pen-to-square", link: "1" },
+          { text: "Configuer Ubuntu20.04 Server", icon: "pen-to-square", link: "2" },
         ],
       },
       {
