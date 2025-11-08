@@ -32,6 +32,16 @@ jobs:
           node-version: 20
           cache: pnpm
 
+      # 新增缓存部分配置
+      - name: 📦 缓存 pnpm store
+        uses: actions/cache@v4
+        id: pnpm-cache
+        with:
+          path: ~/.pnpm-store
+          key: ${{ runner.os }}-pnpm-${{ hashFiles('pnpm-lock.yaml') }}
+          restore-keys: |
+            ${{ runner.os }}-pnpm-
+
       - name: 安装依赖
         run: |
           corepack enable
