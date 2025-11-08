@@ -73,12 +73,12 @@ export default hopeTheme({
       // sidebar
       sidebar: enSidebar,
 
-      footer: "He springs forward, his sword aloft",
+      // footer: "He springs forward, his sword aloft",
 
       displayFooter: true,
 
       blog: {
-        description: "A computer science enthusiast",
+        // description: "A computer science enthusiast",
         intro: "/intro.html",
       },
 
@@ -99,12 +99,12 @@ export default hopeTheme({
       // sidebar
       sidebar: zhSidebar,
 
-      footer: "He springs forward, his sword aloft",
+      // footer: "He springs forward, his sword aloft",
 
       displayFooter: true,
 
       blog: {
-        description: "计算机科学爱好者",
+        // description: "计算机科学爱好者",
         intro: "/zh/intro.html",
       },
 
@@ -129,6 +129,16 @@ export default hopeTheme({
 
   plugins: {
     blog: true,
+    search: ({
+      locales: {
+        '/': {
+          placeholder: 'Search',
+        },
+        '/zh/': {
+          placeholder: '搜索',
+        },
+      },
+    }),
 
     // Install @waline/client before enabling it
     // Note: This is for testing ONLY!
