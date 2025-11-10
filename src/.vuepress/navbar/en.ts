@@ -17,6 +17,13 @@ export const enNavbar = navbar([
           { text: "Configuer Ubuntu20.04 Server", icon: "pen-to-square", link: "2" },
         ],
       },
+      {
+        text: "Algorithm",
+        prefix: "Algorithm/",
+        children: [
+          { text: "Least Common Multiple", link: "skill/lcm" },
+        ]
+      }
     ],
   },
 ]);

@@ -17,6 +17,13 @@ export const zhNavbar = navbar([
           { text: "配置 Ubuntu20.04 服务器", icon: "pen-to-square", link: "2" },
         ],
       },
+      {
+        text: "算法",
+        prefix: "Algorithm/",
+        children: [
+          { text: "最小公倍数", link: "skill/lcm" },
+        ]
+      }
     ],
   },
 ]);
