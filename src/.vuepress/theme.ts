@@ -13,7 +13,7 @@ export default hopeTheme({
 
   iconAssets: "fontawesome-with-brands",
 
-  logo: "/assets/images/logo.png",
+  logo: "/assets/images/logo.webp",
 
   repo: "https://github.com/kaomita",
 

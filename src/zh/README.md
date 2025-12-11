@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: 博客主页
 # heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-bgImage: /assets/images/main.jpg
+bgImage: /assets/images/main.webp
 heroText: K A O M I T A
 heroFullScreen: true
 # tagline: 
@@ -33,6 +33,11 @@ projects:
     name: Dawn Journey
     desc: 友情链接
     link: https://hzau.top
+
+  - icon: toolbox
+    name: 有趣的工具
+    desc: AA转账
+    link: https://kaomita.github.io/aa-splitter/
 
   # - icon: https://theme-hope-assets.vuejs.press/logo.svg
   #   name: 自定义项目

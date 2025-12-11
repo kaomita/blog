@@ -1,6 +1,6 @@
 ---
 icon: circle-info
-cover: /assets/images/cover4.png
+cover: /assets/images/intro.webp
 ---
 
 # Intro Page

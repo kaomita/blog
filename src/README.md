@@ -4,7 +4,7 @@ layout: BlogHome
 icon: home
 title: Blog Home
 # heroImage: https://theme-hope-assets.vuejs.press/logo.svg
-bgImage: /assets/images/main.jpg
+bgImage: /assets/images/main.webp
 heroText: K A O M I T A
 # tagline: You can put your slogan here
 heroFullScreen: true
@@ -33,6 +33,11 @@ projects:
     name: Dawn Journey
     desc: friendly link
     link: https://hzau.top
+
+  - icon: toolbox
+    name: interesting tools
+    desc: AA transfer
+    link: https://kaomita.github.io/aa-splitter/
 
   # - icon: https://theme-hope-assets.vuejs.press/logo.svg
   #   name: custom item
